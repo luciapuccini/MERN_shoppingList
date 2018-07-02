@@ -1,0 +1,21 @@
+{
+  "name": "mern_shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list built with MERN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+  },
+  "author": "Lucia Puccini",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.6.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
