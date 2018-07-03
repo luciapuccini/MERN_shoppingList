@@ -2,7 +2,7 @@
 
 First app folowing the MERN stack
 
-## BackEnd Finished
+## BackEnd API
 
 - Using Mlab
   https://mlab.com/databases/mern_shoppinglist
